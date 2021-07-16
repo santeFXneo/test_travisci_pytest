@@ -1,0 +1,74 @@
+2021-07-15 17:12:22,137; INFO; nprophet.config; __post_init__; Note: Trend changepoint regularization is experimental.
+2021-07-15 17:12:22,264; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.00E+00
+2021-07-15 17:12:22,455; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-05
+2021-07-15 17:12:22,639; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.00E+00
+2021-07-15 17:12:22,793; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 8.11E-01
+2021-07-15 17:12:22,845; INFO; nprophet.config; __post_init__; Note: Fourier-based seasonality regularization is experimental.
+2021-07-15 17:12:22,855; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:23,019; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 6.58E-01
+2021-07-15 17:12:23,148; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:23,298; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2021-07-15 17:12:23,414; INFO; nprophet.config; __post_init__; Note: Fourier-based seasonality regularization is experimental.
+2021-07-15 17:12:23,561; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E-01
+2021-07-15 17:12:23,670; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:23,674; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:23,678; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:23,678; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-07-15 17:12:23,797; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 5.34E-01
+2021-07-15 17:12:24,118; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:24,124; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:24,129; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:24,285; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 4.33E-01
+2021-07-15 17:12:24,417; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:24,421; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:24,580; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 6.58E-02
+2021-07-15 17:12:24,718; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:24,723; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:24,730; INFO; nprophet; _handle_missing_data; 29 NaN values in column A were auto-imputed.
+2021-07-15 17:12:24,734; INFO; nprophet; _handle_missing_data; 29 NaN values in column B were auto-imputed.
+2021-07-15 17:12:24,739; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:24,942; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.00E+00
+2021-07-15 17:12:25,072; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:25,077; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:25,082; INFO; nprophet; _handle_missing_data; 29 NaN values in column A were auto-imputed.
+2021-07-15 17:12:25,086; INFO; nprophet; _handle_missing_data; 29 NaN values in column B were auto-imputed.
+2021-07-15 17:12:25,092; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:25,371; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 4.33E-02
+2021-07-15 17:12:25,541; INFO; nprophet; _handle_missing_data; 24 missing dates were added.
+2021-07-15 17:12:25,546; INFO; nprophet; _handle_missing_data; 24 NaN values in column y were auto-imputed.
+2021-07-15 17:12:25,550; INFO; nprophet; _handle_missing_data; 24 NaN values in column A were auto-imputed.
+2021-07-15 17:12:25,554; INFO; nprophet; _handle_missing_data; 24 NaN values in column B were auto-imputed.
+2021-07-15 17:12:25,622; INFO; nprophet; _handle_missing_data; 3 missing dates were added.
+2021-07-15 17:12:25,627; INFO; nprophet; _handle_missing_data; 3 NaN values in column y were auto-imputed.
+2021-07-15 17:12:25,627; INFO; nprophet; _handle_missing_data; 3 NaN values in column superbowl were auto-imputed.
+2021-07-15 17:12:25,627; INFO; nprophet; _handle_missing_data; 3 NaN values in column playoff were auto-imputed.
+2021-07-15 17:12:25,633; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:26,022; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.52E+00
+2021-07-15 17:12:26,361; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:26,361; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:26,566; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 8.11E-01
+2021-07-15 17:12:26,704; INFO; nprophet; _handle_missing_data; 29 missing dates were added.
+2021-07-15 17:12:26,708; INFO; nprophet; _handle_missing_data; 29 NaN values in column y were auto-imputed.
+2021-07-15 17:12:26,713; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:26,713; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:26,872; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E-01
+2021-07-15 17:12:28,410; WARNING; nprophet; fit; Parts of code may break if using other than daily data.
+2021-07-15 17:12:28,416; INFO; nprophet.utils; set_auto_seasonalities; Disabling weekly seasonality. Run NeuralProphet with weekly_seasonality=True to override this.
+2021-07-15 17:12:28,416; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:28,513; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E+00
+2021-07-15 17:12:28,564; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:28,565; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:28,703; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E-02
+2021-07-15 17:12:28,793; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:28,793; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:28,928; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E-02
+2021-07-15 17:12:29,020; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:29,020; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:29,156; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.23E+00
+2021-07-15 17:12:29,257; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:29,257; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:29,402; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 5.34E-01
+2021-07-15 17:12:29,494; WARNING; nprophet; fit; Parts of code may break if using other than daily data.
+2021-07-15 17:12:29,502; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-07-15 17:12:29,502; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-07-15 17:12:29,609; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.23E+00
